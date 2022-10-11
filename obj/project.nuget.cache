@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWpU1Tu0JeoJewJuPVfpF0YAUI5Vydlaw04fm8FG6T6HTn6D8ohi7FFVg+5+eNCdasZqMWo+tYzrdlpIwg/0vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emre\\Source\\Repos\\WeekSixFallTuesday\\WeekSixFallTuesday\\WeekSixFallTuesday.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://reactjs.net/packages/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

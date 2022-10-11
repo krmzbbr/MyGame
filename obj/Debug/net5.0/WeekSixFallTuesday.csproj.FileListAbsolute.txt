@@ -1,0 +1,16 @@
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\bin\Debug\net5.0\WeekSixFallTuesday.exe
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\bin\Debug\net5.0\WeekSixFallTuesday.deps.json
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\bin\Debug\net5.0\WeekSixFallTuesday.runtimeconfig.json
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\bin\Debug\net5.0\WeekSixFallTuesday.runtimeconfig.dev.json
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\bin\Debug\net5.0\WeekSixFallTuesday.dll
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\bin\Debug\net5.0\WeekSixFallTuesday.pdb
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\obj\Debug\net5.0\WeekSixFallTuesday.csproj.AssemblyReference.cache
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\obj\Debug\net5.0\WeekSixFallTuesday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\obj\Debug\net5.0\WeekSixFallTuesday.AssemblyInfoInputs.cache
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\obj\Debug\net5.0\WeekSixFallTuesday.AssemblyInfo.cs
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\obj\Debug\net5.0\WeekSixFallTuesday.csproj.CoreCompileInputs.cache
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\obj\Debug\net5.0\WeekSixFallTuesday.dll
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\obj\Debug\net5.0\refint\WeekSixFallTuesday.dll
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\obj\Debug\net5.0\WeekSixFallTuesday.pdb
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\obj\Debug\net5.0\WeekSixFallTuesday.genruntimeconfig.cache
+C:\Users\emre\Source\Repos\WeekSixFallTuesday\WeekSixFallTuesday\obj\Debug\net5.0\ref\WeekSixFallTuesday.dll
