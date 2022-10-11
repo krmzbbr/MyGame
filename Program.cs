@@ -17,8 +17,10 @@ namespace WeekSixFallTuesday
             Process p = Process.GetCurrentProcess();
             ShowWindow(p.MainWindowHandle, 3); //SW_MAXIMIZE = 3
 
-            //Console.WriteLine("What is your age?");
 
+            Console.WriteLine("Welcome to my game");
+
+            //Console.WriteLine("What is your age?");
             //try
             //{
             //    int result = Convert.ToInt32(Console.ReadLine());
